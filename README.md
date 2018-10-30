@@ -1,6 +1,6 @@
 # Anitomy
 
-*Anitomy* is a C++ library for parsing anime video filenames. It's accurate, fast, and simple to use.
+*Anitomy* is a C++ library for parsing Anime, Movie and Series video filenames. It's accurate, fast, and simple to use.
 
 ## Examples
 
